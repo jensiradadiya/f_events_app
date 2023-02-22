@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379107720640",
+    "project_id": "eventsapp-40d80",
+    "storage_bucket": "eventsapp-40d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379107720640:android:4eb4d2c14b555e729b9c25",
+        "android_client_info": {
+          "package_name": "uk.co.appsology.like2day"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379107720640-kvkofc1c1ve4s65e1kpbcvhqhj129kgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA98ICgj37gj-lYD_qCLwHKlkNxR7pdys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379107720640-kvkofc1c1ve4s65e1kpbcvhqhj129kgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
